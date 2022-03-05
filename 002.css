@@ -1,0 +1,30 @@
+.image{
+  opacity: 0.2;
+}
+#title{
+  font-size: 60;
+}
+#same{
+  display: inline-block;
+}
+.aboutme{
+  text-align: center;
+}
+#coding{
+  margin:0 left;
+  opacity: 0.5
+}
+#study{
+  margin: right;
+
+  opacity: 0.5
+}
+#show{
+  display: inline-block;
+}
+#study:hover,#coding:hover{
+  opacity: 1;
+}
+#phone{
+  font-size: xx-large;
+}
